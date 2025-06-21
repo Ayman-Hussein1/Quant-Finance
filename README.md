@@ -1,6 +1,7 @@
 # Quant-Finance
-A copy of my mini projects in the Quantitative methods in finance bootcamp.
-Erdos Institute - Summer 2025.
+Quant Finance Boot Camp (Summer 2025)
+The Erdos Institute
+
 
 Summary:
 
